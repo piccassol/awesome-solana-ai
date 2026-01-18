@@ -22,7 +22,7 @@ AI coding skills that enhance developer productivity on Solana.
 
 AI agents and autonomous systems built for Solana.
 
-- [Chronoeffector AI Arena](https://arena.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets, all powered by the deflationary $chronoeffe token.
+- [Chronoeffector AI Arena](https://arena.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
 
 ## Developer Tools
 
